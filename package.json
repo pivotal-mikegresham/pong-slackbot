@@ -1,0 +1,19 @@
+{
+  "name": "concourse-fb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "messenger-bot": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "npm": "2.7.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
